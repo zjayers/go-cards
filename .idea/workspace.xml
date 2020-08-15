@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a6e0a4-ce4c-45d8-8070-cd70b3c82d67" name="Default Changelist" comment="" />
+    <list default="true" id="28a6e0a4-ce4c-45d8-8070-cd70b3c82d67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
     </option>
   </component>
   <component name="GOROOT" path="$USER_HOME$/sdk/go1.15rc1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g6l764DnNS8IsOCQiGiv2NptLK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RunManager" selected="Go Test.TestNewDeck in deck_test.go (1)">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -89,14 +94,16 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1148" height="216" key="GridCell.Tab.0.right/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597453934967" />
-    <state x="788" y="359" key="SettingsEditor" timestamp="1597453335746">
+    <state x="788" y="359" key="SettingsEditor" timestamp="1597454979189">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="788" y="359" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597453335746" />
-    <state x="788" y="359" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597453321961" />
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597453061911">
+    <state x="788" y="359" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1597454848413" />
+    <state x="833" y="359" key="SettingsEditor/2560.-533.1920.1057/2560.547.1920.1057/65.0.2495.1440@65.0.2495.1440" timestamp="1597454899316" />
+    <state x="788" y="359" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597454979189" />
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597454957176">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597453061911" />
+    <state x="984" y="329" width="670" height="678" key="search.everywhere.popup/2560.-533.1920.1057/2560.547.1920.1057/65.0.2495.1440@65.0.2495.1440" timestamp="1597454874027" />
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597454957176" />
   </component>
 </project>
